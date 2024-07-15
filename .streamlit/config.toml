@@ -1,0 +1,3 @@
+[server]
+headless = true
+reload_on_save = true
